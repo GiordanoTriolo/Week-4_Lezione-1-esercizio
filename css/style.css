@@ -1,0 +1,20 @@
+body > div{
+    padding: 10px;
+}
+
+#data {
+    background-color: bisque;
+}
+
+#orologio {
+    background-color: aquamarine;
+}
+
+#cron{
+    background-color: beige;
+}
+
+#cronometro{
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
